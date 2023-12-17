@@ -9,5 +9,10 @@
     "key": "cmd+shift+v",
     "command": "pasteAndIndent.action",
     "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "cmd+Control+n",
+    "command": "pasteAndIndent.action",
+    "when": "editorTextFocus && !editorReadonly"
   }
 ]

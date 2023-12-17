@@ -78,5 +78,3 @@ if [ -f '/usr/local/share/google-cloud-sdk/path.zsh.inc' ]; then . '/usr/local/s
 if [ -f '/usr/local/share/google-cloud-sdk/completion.zsh.inc' ]; then . '/usr/local/share/google-cloud-sdk/completion.zsh.inc'; fi
 export PYTHONPATH="/Users/arnaudblanchard/code/Arnaud-v-B/04-Decision-Science/01-Project-Setup/data-context-and-setup:$PYTHONPATH"
 export GOOGLE_APPLICATION_CREDENTIALS=/Users/arnaudblanchard/Documents/GitHub/GCP_Key/project-lewagon-405710-965b31b4906b.json
-# export PATH="$PATH:/Users/arnaudblanchard/code/Arnaud-v-B/dotfiles/zshrc"
-# source /Users/arnaudblanchard/code/Arnaud-v-B/dotfiles/zshrc
